@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my public profile!
 
-I finished the journey through the [Learn Enough to Be Dangerous](https://www.learnenough.com) website.  
+My last achievement: I finished the journey through the [Learn Enough to Be Dangerous](https://www.learnenough.com) website.  
 This journey consists of tutorials from basic to advanced skills necessary for consistent web development and finalizes with the acclaimed [Ruby on Rails Tutorial](https://www.learnenough.com/course/ruby_on_rails_tutorial_7th_edition) from the author [Michael Hartl](https://www.michaelhartl.com). Each badge below represents the completion of a tutorial.
 
 

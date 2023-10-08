@@ -50,7 +50,7 @@ Working with heavy machinery and equipment has honed my attention to detail and 
 
 ## My Journey Continues 🚀
 
-My journey started with a data processing technician course and has led me to languages like Ruby, Python, JavaScript, and mastering web frameworks like Ruby on Rails and Sinatra. My GitHub profile showcases over 70 solutions across various programming languages, highlighting my problem-solving capabilities.
+My journey started with a data processing technician course and has led me to languages like Ruby, Python, JavaScript, and mastering web frameworks like Ruby on Rails and Sinatra. My profile showcases repositories across various programming languages, highlighting my problem-solving capabilities.
 
 ## Adding to My Arsenal 📚
 

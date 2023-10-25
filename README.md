@@ -42,7 +42,7 @@ I'm passionate about improving operational efficiency. I've leveraged software s
 
 ### Engineering Background 🚢🔧
 
-My prior experiences as a marine engineer and millwright mechanic have enriched my problem-solving abilities. I'm accustomed to dealing with complex machinery and systems, which has translated seamlessly into troubleshooting and optimizing software applications.
+My experiences as a marine engineer and millwright mechanic have enriched my problem-solving abilities. I'm accustomed to dealing with complex machinery and systems, which has translated seamlessly into troubleshooting and optimizing software applications.
 
 ### Hands-On Expertise 🛠️
 

@@ -12,54 +12,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Francisco 👋
+# Welcome! I'm Francisco 👋
 
 ## About Me
 
-I'm a detail-oriented and versatile software developer on a journey that began with a data processing technician degree. Along the way, I've acquired a diverse skill set that I now bring to the world of software development, drawing upon my unique background as a marine engineer and millwright mechanic.
+I'm a meticulous software developer rooted in data processing, with a background in marine engineering and millwright mechanics. My journey underscores adaptability and problem-solving prowess, now directed towards software development.
 
-## What I Bring to the Table
+## What Sets Me Apart
 
-### Problem-Solving Ninja 🧩
+### Problem-Solving Virtuoso 🧩
 
-My journey has equipped me with analytical thinking and pragmatic problem-solving skills. I'm adept at dissecting challenges and finding efficient solutions.
+Analytical and practical, I excel at dissecting issues and devising effective solutions.
 
-### Adaptability Guru 🌟
+### Adaptability Maestro 🌟
 
-Thriving in diverse environments taught me adaptability and quick decision-making. I'm well-prepared to tackle anything that comes my way in the fast-paced world of software development.
+Thriving in diverse settings, I bring agility and decisiveness to every project.
 
-### Teamwork Aficionado 🚀
+### Team Player Extraordinaire 🚀
 
-Collaboration has always been at the core of my work. I bring effective teamwork skills to every software project, having trained and supervised staff, fostering a sense of teamwork.
+Built on a foundation of collaboration, I foster teamwork and unity to drive success.
 
-### Communication Prodigy 🗣️
+### Communication Maven 🗣️
 
-Effective communication is key in any field. My diverse roles have equipped me with strong interpersonal, oral, and written communication skills, bridging the gap between technical jargon and plain language.
+Mastering technical and interpersonal communication, I bridge gaps and foster understanding.
 
-### Efficiency Expert 🕒
+### Efficiency Guru 🕒
 
-I'm passionate about improving operational efficiency. I've leveraged software solutions to streamline processes, reducing downtime and costs.
+Passionate about optimization, I leverage technology to enhance productivity and cut costs.
 
-### Engineering Background 🚢🔧
+### Engineering Savvy 🚢🔧
 
-My experiences as a marine engineer and millwright mechanic have enriched my problem-solving abilities. I'm accustomed to dealing with complex machinery and systems, which has translated seamlessly into troubleshooting and optimizing software applications.
+From complex machinery to software systems, I bring a wealth of problem-solving experience.
 
-### Hands-On Expertise 🛠️
+### Precision Expert 🛠️
 
-Working with heavy machinery and equipment has honed my attention to detail and precision, skills that are vital in software development, where even a small error can have a big impact.
+Attention to detail is my forte, ensuring accuracy and reliability in every task.
 
-## My Journey Continues 🚀
+## My Ongoing Journey 🚀
 
-My journey started with a data processing technician course and has led me to languages like Ruby, Python, JavaScript, and introduced me to web frameworks like Ruby on Rails and Sinatra. My profile showcases repositories across various programming languages, highlighting my problem-solving capabilities.
+From data processing to mastering languages like Ruby, Python, and JavaScript, I'm constantly evolving. My GitHub showcases diverse projects, reflecting my problem-solving prowess.
 
-## Adding to My Arsenal 📚
+## Adding to My Toolbox 📚
 
-- Extensive training in web development, including Ruby on Rails, HTML, CSS, Git, GitHub, JavaScript, and Ruby.
-- Accomplished Ruby, Git & GitHub, and Bash Scripting certifications through Codecademy.
+- Extensive training in web development, including Ruby on Rails, HTML, CSS, Git, and JavaScript.
+- Certified in Ruby, Git & GitHub, and Bash Scripting through Codecademy.
 
 <a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/FChagasJr"><img src="https://www.learnenough.com/certificates/FChagasJr/ruby-on-rails-7th-edition-tutorial.svg" alt="Certificate of Completion for Ruby on Rails (Rails 7)"></a>
 
-I'm here to contribute, learn, and collaborate with the incredible developer community. Let's build amazing things together! If you'd like to connect, collaborate, or just chat about code, feel free to reach out. 📫
+Let's collaborate and innovate! Feel free to reach out for discussions on code, projects, or professional connections. 📫
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/francisco-das-chagas-s-jr-83463534/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/fchagasjr)
